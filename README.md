@@ -5,7 +5,7 @@
 This Python-based simulation features multiple agents (circles) moving on the screen, showcasing various behaviors and interactions. It's built using the `pygame` library and serves as an example of a multi-agent system.
 
 ## Demo
-
+Work in progress. Please download `Multi-Agent Simulation Demo.mov` from the `demo` folder to view the demo.
 <video src="demo/Multi-Agent Simulation Demo.mov"></video>
 
 ## Installation
