@@ -6,7 +6,7 @@ This Python-based simulation features multiple agents (circles) moving on the sc
 
 ## Demo
 
-[![Multi-Agent Simulation Demo](https://img.youtube.com/vi/UN4vBsbGlK0/0.jpg)](https://www.youtube.com/watch?v=YUN4vBsbGlK0)
+[![Multi-Agent Simulation Demo](https://img.youtube.com/vi/UN4vBsbGlK0/0.jpg)](https://www.youtube.com/watch?v=UN4vBsbGlK0)
 
 ## Installation
 
